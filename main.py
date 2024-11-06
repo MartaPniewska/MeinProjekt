@@ -1,5 +1,5 @@
 # geografie-spiel.py
-
+# new comment
 capitals = {"USA":"Washington D.C.", "France":"Paris", "India":"New Delhi", "Holland":"Amsterdam", "Spain":"Madrid", "Italy":"Rom", "Norway":"Oslo"}
 
 scores = 0
