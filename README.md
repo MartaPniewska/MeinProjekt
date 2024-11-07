@@ -118,6 +118,19 @@ remote: Resolving deltas: 100% (1/1), completed with 1 local object.
 To github.com:MartaPniewska/MeinProjekt.git
    e3a8923..288b63d  main -> main
 
+velpTEC edutainment@PC-63V92W MINGW64 ~/GitHub/Tp/MeinProjekt/MeinProjekt (feature)
+$ git push
+Enter passphrase for key '/c/Users/velpTEC edutainment/.ssh/id_rsa':
+Enumerating objects: 3, done.
+Counting objects: 100% (3/3), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (1/1), done.
+Writing objects: 100% (2/2), 244 bytes | 244.00 KiB/s, done.
+Total 2 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+To github.com:MartaPniewska/MeinProjekt.git
+   288b63d..12f71ea  feature -> feature
+
+
 18. Merge von "feature"-Branch in den "main"-Branch:
 
 velpTEC edutainment@PC-63V92W MINGW64 ~/GitHub/TP/MeinProjekt/MeinProjekt (main)
